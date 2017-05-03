@@ -1,5 +1,5 @@
 # Introduction
-corinne
+corinnef
 # Prerequisites
 
 To get started with this quickstart you'll need the following prerequisites:
